@@ -6,7 +6,7 @@ yarn-debug.log*
 yarn-error.log*
 
 #password
-passwd/
+passwd/*
 # Runtime data
 pids
 *.pid
